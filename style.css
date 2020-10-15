@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    min-height: 100vh;
+    background-color: #f2f2f2;
+}
+h1{
+    text-align: center;
+    margin-top: 24px;
+}
+form{
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 40px;
+}
+input,textarea,select{
+    outline: none;
+    width: 100%;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+}
+input,select{
+    height: 40px;
+    padding: 0 10px;
+}
+textarea{
+    padding: 10px;
+}
+
+label{
+    margin-top: 18px;
+    display: block;
+}
+label:first-child{
+    margin-top: 0;
+}
+.btn{
+    margin-top: 20px;
+    border: none;
+    background-color: rgb(107, 182, 252);
+    cursor: pointer;
+    transition: all .4s;
+    color: #fff;
+}
+.btn.active{
+    background-color: rgb(107, 182, 252);
+    cursor: pointer;
+    transition: all .4s;
+    color: #fff;
+}
+.btn.disactive{
+    cursor: not-allowed;
+    transition: all .4s;
+    background-color: rgb(202, 202, 202);
+    color: rgb(128, 128, 128);
+}
+div p{
+    background-color: #fff;
+    border-bottom: 2px solid #ccc;
+    padding: 10px;
+    margin-bottom: 18px;
+}
+.submit{
+    width: 100%;
+    border: none;
+    height: 40px;
+    background-color: rgb(107, 182, 252);
+    color: #fff;
+    border-radius: 3px;
+    margin-top: 5px;
+    cursor: pointer;
+    text-align: center;
+}
+input[type="button"]{
+    cursor: pointer;
+}
+span{
+    background-color: rgb(211, 65, 65);
+    margin-left: 6px;
+    position: relative;
+    display: inline-block;
+    top: -4px;
+    width: 5px;
+    height: 5px;
+    border-radius: 50%;
+}
+
+
+.err_msg{
+    color: rgb(211, 65, 65);
+    font-size: 13px;
+}
+input.success,select.success,textarea.success{
+    border-color: rgb(73, 167, 73);
+}
+input.error,select.error,textarea.error{
+    border-color: rgb(211, 65, 65);
+}
+
