@@ -51,10 +51,7 @@ PHPとJavaScriptでそれぞれバリデーションを行っているため両�
 JavaScriptで、フォームに変更がありエラーがある場合はボタンを押せなくしているため、
 アクセス直後のボタンが押せる状態ではPHPのバリデーションが動作する。
 
-![バリデーション](https://user-images.githubusercontent.com/65642316/96585750-f7a81f80-131a-11eb-9af7-010d582de6c6.png "php")
-
-<img width="638" alt="スクリーンショット 2020-10-20 19 22 49" src="https://user-images.githubusercontent.com/65642316/96586180-9896da80-131b-11eb-99ef-4f2358ada027.png" width="400px">
-
+<img width="1440" alt="スクリーンショット 2020-10-20 21 33 17" src="https://user-images.githubusercontent.com/65642316/96586385-e4498400-131b-11eb-8477-790da0d430b5.png">
 
 PHPのバリデーション確認は、上のような状態で
 
