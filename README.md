@@ -60,4 +60,7 @@ JavaScriptのバリデーション確認は、フォーム内容を一つ一つ�
 
 # 参考サイト
 [お問い合わせフォーム 確認画面](http://www.kanda-it-school.com/sample/php/seminar/php_seminar_sample_code/ch04_2.php)
+[素のJavaScriptでFormバリデーション](https://qiita.com/zaburo/items/a8fdcb0e1237f6ef97ff)
+[今時JSのバリデーションチェック](https://qiita.com/__init__/items/4ca0d14c26b81b15e3db)
+[過去の制作物のコード](https://github.com/takumi-pro/tshop)
 
