@@ -58,3 +58,6 @@ PHPのバリデーション確認は、上のような状態でエラー表示�
 <img width="1438" alt="スクリーンショット 2020-10-20 22 04 28" src="https://user-images.githubusercontent.com/65642316/96589824-3ee4df00-1320-11eb-8ea8-d0e1f3f3cafa.png">
 JavaScriptのバリデーション確認は、フォーム内容を一つ一つ変更しながら行った。
 
+# 参考サイト
+[お問い合わせフォーム 確認画面]:http://www.kanda-it-school.com/sample/php/seminar/php_seminar_sample_code/ch04_2.php
+
