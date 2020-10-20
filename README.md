@@ -59,5 +59,5 @@ PHPのバリデーション確認は、上のような状態でエラー表示�
 JavaScriptのバリデーション確認は、フォーム内容を一つ一つ変更しながら行った。
 
 # 参考サイト
-[お問い合わせフォーム 確認画面]:http://www.kanda-it-school.com/sample/php/seminar/php_seminar_sample_code/ch04_2.php
+[お問い合わせフォーム 確認画面][http://www.kanda-it-school.com/sample/php/seminar/php_seminar_sample_code/ch04_2.php]
 
