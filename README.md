@@ -52,6 +52,9 @@ JavaScriptで、フォームに変更がありエラーがある場合はボタ�
 アクセス直後のボタンが押せる状態ではPHPのバリデーションが動作する。
 
 <img width="1440" alt="スクリーンショット 2020-10-20 21 33 17" src="https://user-images.githubusercontent.com/65642316/96586385-e4498400-131b-11eb-8477-790da0d430b5.png">
+PHPのバリデーション確認は、上のような状態でエラー表示がなくボタンが押せる状態で行った。
 
-PHPのバリデーション確認は、上のような状態で
+
+<img width="1438" alt="スクリーンショット 2020-10-20 22 04 28" src="https://user-images.githubusercontent.com/65642316/96589824-3ee4df00-1320-11eb-8ea8-d0e1f3f3cafa.png">
+
 
