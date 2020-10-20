@@ -9,7 +9,8 @@
 - MySQL --5.7.26
 
 # 実装に費やした時間
-バックエンド（PHP） --3.5時間
-フロントエンド（HTML,CSS,JavaScript） --2時間
+
+- バックエンド（PHP） --3.5時間
+- フロントエンド（HTML,CSS,JavaScript） --2時間
 
 
