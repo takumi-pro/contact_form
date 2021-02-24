@@ -65,10 +65,6 @@ JavaScriptのバリデーション確認は、フォーム内容を一つ一つ�
 - [今時JSのバリデーションチェック](https://qiita.com/__init__/items/4ca0d14c26b81b15e3db)
 - [過去の制作物のコード](https://github.com/takumi-pro/tshop)
 
-# 別サーバで動作させるための設定
-
-[参考サイト　git cloneしたlaravelプロジェクトを、新しいサーバで動作させるには](https://www.messiahworks.com/archives/14966)
-
 
 # 補足
 - inquiry.sqlがデータベース情報をエクスポートしたものです。
